@@ -1,0 +1,10 @@
+item_ammo_oldworld
+
+[OBJECT:ITEM]
+
+[ITEM_AMMO:ITEM_AMMO_BASILITE_BOLTS]
+[NAME:barbed bolt:barbed bolts]
+[CLASS:BOLT]
+[SIZE:150]
+[ATTACK:EDGE:4:1200:stab:stabs:NO_SUB:1200]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
